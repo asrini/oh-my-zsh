@@ -1,3 +1,5 @@
+# This should now push to Anand's repo
+
 # Check for updates on initial load...
 if [ "$DISABLE_AUTO_UPDATE" != "true" ]
 then
